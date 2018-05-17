@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /search/
+Disallow: 
+Disallow: 
+
+Sitemap: https://kwongdou.github.io/sitemap.xml
